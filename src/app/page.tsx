@@ -3,9 +3,9 @@ import Link from "next/link";
 import RedBackground from "@/assets/images/bg_front_cover.png";
 import Curtain from "@/assets/images/curtain.png";
 import DiamondPattern from "@/assets/images/bg_diamond_pattern.png";
-import GoldenClock from "@/assets/images/golden_clock.png";
-import Frame from "@/assets/images/frame.png";
-import Cards from "@/assets/images/cards.png";
+import GoldenClock from "@/assets/images/homepage/golden_clock.png";
+import Frame from "@/assets/images/homepage/frame.png";
+import Cards from "@/assets/images/homepage/cards.png";
 
 const Home = () => {
   return (

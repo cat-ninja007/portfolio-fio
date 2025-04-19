@@ -1,6 +1,5 @@
 import React from 'react'
 import Image from 'next/image'
-import Link from 'next/link'
 import ProfileImage from "@/assets/images/noimageavailable.webp"
 import { FaPhone, FaEnvelope, FaInstagram, FaTwitter } from 'react-icons/fa'
 
