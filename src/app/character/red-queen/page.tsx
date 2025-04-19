@@ -1,20 +1,26 @@
 import React from "react";
 import Image from "next/image";
-import RedQueenBg from "@/assets/images/character-page/red-queen/bg-red-queen.webp";
+import RedQueenPage1 from "@/assets/images/character-page/red-queen/red-queen.png"
+import RedQueenPage2 from "@/assets/images/character-page/red-queen/red-queen-page2.png"
 
 const RedQueen = () => {
   return (
     <>
       <div>
-        <div className="absolute">
-          <Image
-            src={RedQueenBg}
-            alt="Red Queen Background"
-            className="w-full h-screen object-cover"
-          />
-        </div>
-
-
+        <Image 
+          src={RedQueenPage1}
+          alt="About Me"
+          className="w-full h-screen object-cover"
+          priority
+        />
+      </div>
+      <div>
+        <Image 
+          src={RedQueenPage2}
+          alt="About Me"
+          className="w-full h-screen object-cover"
+          priority
+        />
       </div>
     </>
   )
