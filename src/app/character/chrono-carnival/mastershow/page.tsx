@@ -3,7 +3,7 @@ import Image from "next/image";
 
 // Full Body Image
 import MastershowPoseFront from "@/assets/images/character-page/chrono-carnival/mastershow/mastershow-front.webp";
-import MastershowPoseFront2 from "@/assets/images/character-page/chrono-carnival/mastershow/mastershow-front-2.webp";
+import MastershowPoseFront2 from "@/assets/images/character-page/chrono-carnival/mastershow/Mastershow-front-2.webp";
 import MastershowPoseLeft from "@/assets/images/character-page/chrono-carnival/mastershow/mastershow-left.webp";
 import MastershowPoseBack from "@/assets/images/character-page/chrono-carnival/mastershow/mastershow-back.webp";
 import MastershowPoseRight from "@/assets/images/character-page/chrono-carnival/mastershow/mastershow-right.webp";
